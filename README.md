@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bayonnekt
-- 👀 I’m interested in Cybersecurity Analyst 
+- 👀 I’m interested in Data Analyis/Cybersecurity Analyst 
 - 🌱 I’m currently learning coding in python, SQL and R 
 - 💞️ I’m looking to collaborate on project that I can showcase on my job search 
 - 📫 How to reach me bayonnekt@gmail.com and (347) 970 4172
